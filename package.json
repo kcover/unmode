@@ -9,6 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.0",
     "@types/node": "18.11.11",
     "@types/react": "18.0.26",
     "@types/react-dom": "18.0.9",
@@ -21,6 +26,7 @@
     "typescript": "4.9.4"
   },
   "devDependencies": {
-    "@types/react-clock": "^3.0.1"
+    "@types/react-clock": "^3.0.1",
+    "prettier": "^2.8.1"
   }
 }
